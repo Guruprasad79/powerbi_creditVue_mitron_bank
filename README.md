@@ -1,6 +1,6 @@
 ## CreditVue: Mitron Bank Insights Dashboard :
 
-- **Introduction:** <br/>
+**Introduction:** <br/>
 Welcome to the CreditVue repository, Mitron Bank's comprehensive insights dashboard. Dive into the analysis of customers' credit card spending, demographic distribution, and spending patterns to guide the launch of new credit cards.<br/>
 
 **Project Objective:** <br/>
